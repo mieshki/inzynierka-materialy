@@ -1,0 +1,7 @@
+3x rejestry przesuwne
+1x kondesator 0.01uF
+24x rezystory 330ohm (powinny byc lepiej dobrane)
+
+https://hackaday.io/project/2167/components
+https://www.youtube.com/watch?v=zS5oZPJVh_o
+https://www.youtube.com/watch?v=wVYXAR1GWxU
