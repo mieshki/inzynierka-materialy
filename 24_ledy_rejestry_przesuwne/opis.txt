@@ -1,0 +1,5 @@
+3x rejestry przesuwne
+1x kondesator 0.01uF
+1x rezystory 330ohm
+
+https://www.arduino.cc/en/Tutorial/Foundations/ShiftOut
